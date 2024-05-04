@@ -7,7 +7,8 @@ Servidor Público Federal | Estudante de Análise e Desenvolvimento de Sistema |
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_clxt/)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasclx&theme=transparent&bg_color=25332D&border_color=3FEB9E&show_icons=true&icon_color=3FEB9E&title_color=56B88C7&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasclx&layout=compact&bg_color=25332D&border_color=3FEB9E&title_color=56B88C&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasclx&theme=transparent&bg_color=25332D&border_color=3FEB9E&show_icons=true&icon_color=3FEB9E&title_color=3FEB9E&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasclx&layout=compact&bg_color=25332D&border_color=3FEB9E&title_color=3FEB9E&text_color=FFF)
+
 
 ---
