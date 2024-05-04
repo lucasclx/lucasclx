@@ -1,6 +1,5 @@
-# Quem sou eu?
-Sou Lucas Barbosa Calixto, estudante de Análise e Desenvolvimento de Sistemas em busca de oportunidades para adquirir experiência em programação, desenvolvimento de software, banco de dados, análise de sistemas e implementação de soluções tecnológicas. Comprometido com o trabalho em equipe, colaboração e aprendizado mútuo. Busco uma oportunidade profissional que permita meu crescimento intelectual, profissional e técnico, contribuindo a longo prazo para o sucesso da empresa.
-
+# Lucas Barbosa Calixto
+Servidor Público Federal | Estudante de Análise e Desenvolvimento de Sistema | Amante de arte no geral
 
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=AA42F7)](lucaslcxt@gmail.com)
