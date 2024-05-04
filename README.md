@@ -8,8 +8,5 @@ Servidor Público Federal | Estudante de Análise e Desenvolvimento de Sistema |
 
 ### GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasclx&layout=compact&bg_color=000&border_color=AA42F7&title_color=AA42F7&text_color=FFF)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasclx&theme=transparent&bg_color=000&border_color=AA42F7&show_icons=true&icon_color=AA42F7&title_color=AA42F7&text_color=FFF)
-
-
 ---
