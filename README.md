@@ -1,5 +1,5 @@
 # Lucas Barbosa Calixto
-Servidor Público Federal | Estudante de Análise e Desenvolvimento de Sistema | Amante de arte no geral
+Servidor Público Federal | Estudante de Análise e Desenvolvimento de Sistema | Amante de artes.
 
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=AA42F7)](lucaslcxt@gmail.com)
