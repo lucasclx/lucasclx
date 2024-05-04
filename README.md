@@ -1,16 +1,16 @@
-### Hi there 👋
+# Quem sou eu?
+Sou Lucas Barbosa Calixto, estudante de Análise e Desenvolvimento de Sistemas em busca de oportunidades para adquirir experiência em programação, desenvolvimento de software, banco de dados, análise de sistemas e implementação de soluções tecnológicas. Comprometido com o trabalho em equipe, colaboração e aprendizado mútuo. Busco uma oportunidade profissional que permita meu crescimento intelectual, profissional e técnico, contribuindo a longo prazo para o sucesso da empresa.
 
-<!--
-**lucasclx/lucasclx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Conecte-se comigo
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=AA42F7)](lucaslcxt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=AA42F7)](https://https://www.linkedin.com/in/lucas-barbosa-calixto/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_clxt/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasclx&layout=compact&bg_color=000&border_color=AA42F7&title_color=AA42F7&text_color=FFF)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasclx&theme=transparent&bg_color=000&border_color=AA42F7&show_icons=true&icon_color=AA42F7&title_color=AA42F7&text_color=FFF)
+
+
+---
