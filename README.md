@@ -2,8 +2,8 @@
 Servidor Público Federal | Estudante de Análise e Desenvolvimento de Sistema | Amante de artes.
 
 ### Conecte-se comigo
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=AA42F7)](lucaslcxt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=AA42F7)](https://https://www.linkedin.com/in/lucas-barbosa-calixto/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=ea4335)](lucaslcxt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://https://www.linkedin.com/in/lucas-barbosa-calixto/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_clxt/)
 
 ### GitHub Stats
