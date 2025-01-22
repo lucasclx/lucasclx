@@ -1,28 +1,26 @@
-# Olá! Eu sou [Seu Nome] 👋
+Olá, sou Lucas Barbosa Calixto! 👋
+Entusiasta de Ciência de Dados e Machine Learning, atualmente cursando Análise e Desenvolvimento de Sistemas. Tenho como objetivo transformar dados em insights valiosos, aplicando modelos e técnicas para resolver problemas reais.
 
-Sou apaixonado por **Data Science** e **Analytics**, sempre em busca de novas formas de extrair valor de dados e transformar informações em soluções práticas. Tenho experiência em **Python**, **SQL** e ferramentas de visualização como **Power BI** e **Tableau**.
+🚀 Habilidades Técnicas
+Linguagens: Python, SQL
+Bibliotecas: Pandas, NumPy, scikit-learn
+Ferramentas: Power BI, Tableau, Git
+🏷️ Áreas de Interesse
+Análise de Dados e Visualização
+Machine Learning e MLOps
+Pipelines e Automação de Processos
+📊 Projetos Relevantes
+Predição de Dados: Modelos de regressão e classificação para previsões baseadas em datasets reais.
+Análise Exploratória de Dados: Estudo de dados com técnicas de limpeza, visualização e identificação de padrões.
+🌱 Atualmente Aprendendo
+Técnicas avançadas de modelagem de dados
+Automação com MLOps
+Visualizações interativas com Python e Tableau
+📫 Entre em Contato
+LinkedIn: Seu LinkedIn
+E-mail: lucas.barbosa@example.com
+## 📊 Minhas Estatísticas no GitHub
 
-- 🎯 **Foco atual**: Análise de dados, Visualização e Desenvolvimento de modelos de Machine Learning.
-- 📚 **Estudando**: Técnicas avançadas de modelagem estatística, Big Data (Spark) e Data Engineering.
-- 💡 **Meus interesses**: Projetos de Data Science, colaboração em Open Source e desafios de Analytics no mundo real.
-- 🌱 **Sempre aprendendo**: Data Ops, MLOps e automação de pipeline de dados.
-
-## Projetos em Destaque
-Aqui estão alguns dos meus repositórios principais:
-- [**Data Analysis com Python**](https://github.com/seuusuario/data-analysis-python): Análises exploratórias usando Pandas e visualizações com Matplotlib/Seaborn.
-- [**Dashboard de Vendas**](https://github.com/seuusuario/dashboard-vendas): Exemplo de relatório interativo de vendas usando Power BI, com link para o dashboard publicado.
-- [**Machine Learning - Previsão de Preços**](https://github.com/seuusuario/ml-preco): Modelo de regressão para prever preços, incluindo scripts de limpeza de dados e avaliação de métricas.
-
-## Principais Tecnologias e Ferramentas
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-blueviolet?logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white)
-
-## Entre em Contato
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/seunome)
-- **E-mail**: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- **Website/Portfólio (opcional)**: [seusite.com](https://www.seusite.com)
-
-Sinta-se à vontade para explorar meus projetos e contribuir! Se tiver alguma sugestão, dúvida ou oportunidade, pode entrar em contato pelos links acima.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasclx&show_icons=true&theme=dark&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasclx&layout=compact&theme=dark)  
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=lucasclx&theme=github-dark)
