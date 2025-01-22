@@ -44,13 +44,37 @@ Focado em aplicar modelos e análises para resolver problemas do mundo real e co
 <div>
 
 <!-- Estatísticas gerais -->
-<img height="145em" src="https://github-readme-stats.vercel.app/api?username=lucasclx&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <!-- Estatísticas gerais -->
+        <img 
+             src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&count_private=true" 
+             alt="GitHub Stats"
+             height="160"
+/>
+      </td>
+      <td>
+        <!-- Linguagens mais usadas -->
+        <img 
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark" 
+             alt="Top Languages"
+             height="160"
+/>
+      </td>
+      <td>
+        <!-- Streak (contribuições diárias) -->
+        <img 
+             src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark" 
+             alt="Current Streak"
+             height="160"
+/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- Linguagens mais usadas por repositório -->
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasclx&layout=compact&theme=dark" alt="Top Languages" />
-
-<!-- Streak (contribuições diárias) -->
-<img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasclx&theme=dark" alt="Current Streak" />
 
 <!-- Gráfico de atividade -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasclx&theme=github-dark" alt="GitHub Activity Graph" />
