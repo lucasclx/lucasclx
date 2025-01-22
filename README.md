@@ -35,16 +35,16 @@ Focado em aplicar modelos e análises para resolver problemas do mundo real e co
 
 ## 📊 Minhas Estatísticas no GitHub
 
-<div align="center">
+<div>
 
 <!-- Estatísticas gerais -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasclx&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=lucasclx&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 
 <!-- Linguagens mais usadas por repositório -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasclx&layout=compact&theme=dark" alt="Top Languages" />
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasclx&layout=compact&theme=dark" alt="Top Languages" />
 
 <!-- Streak (contribuições diárias) -->
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasclx&theme=dark" alt="Current Streak" />
+<img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasclx&theme=dark" alt="Current Streak" />
 
 <!-- Gráfico de atividade -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasclx&theme=github-dark" alt="GitHub Activity Graph" />
