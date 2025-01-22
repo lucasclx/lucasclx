@@ -59,8 +59,7 @@ Focado em aplicar modelos e análises para resolver problemas do mundo real e co
         <!-- Streak (contribuições diárias) -->
         <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasclx&theme=dark" alt="Current Streak" />
 
-      </td>
-    </tr>
+      
   </table>
 </div>
 
