@@ -43,11 +43,11 @@ Focado em aplicar modelos e análises para resolver problemas do mundo real e co
 <!-- Linguagens mais usadas por repositório -->
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasclx&layout=compact&theme=dark" alt="Top Languages" />
 
-<!-- Gráfico de atividade -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasclx&theme=github-dark" alt="GitHub Activity Graph" />
-
 <!-- Streak (contribuições diárias) -->
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasclx&theme=dark" alt="Current Streak" />
+
+<!-- Gráfico de atividade -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasclx&theme=github-dark" alt="GitHub Activity Graph" />
 
 </div>
 
