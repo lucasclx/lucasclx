@@ -49,27 +49,16 @@ Focado em aplicar modelos e análises para resolver problemas do mundo real e co
     <tr>
       <td>
         <!-- Estatísticas gerais -->
-        <img 
-             src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&count_private=true" 
-             alt="GitHub Stats"
-             height="160"
-/>
+       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasclx&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
         <!-- Linguagens mais usadas -->
-        <img 
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark" 
-             alt="Top Languages"
-             height="160"
-/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasclx&layout=compact&theme=dark" alt="Top Languages" />
       </td>
       <td>
         <!-- Streak (contribuições diárias) -->
-        <img 
-             src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark" 
-             alt="Current Streak"
-             height="160"
-/>
+        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasclx&theme=dark" alt="Current Streak" />
+
       </td>
     </tr>
   </table>
