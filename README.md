@@ -19,7 +19,7 @@ Focado em aplicar modelos e análises para resolver problemas do mundo real e co
 ---
 
 ## 📊 Projetos Relevantes  
-- **Predição de Dados:** Modelos de regressão e classificação para previsões baseadas em conjuntos de dados reais.  
+- **Previsão de Status no Sistema Sadipem**: Desenvolvimento de um modelo preditivo para antecipar o status de processos no sistema Sadipem, utilizando aprendizado de máquina e análise de dados. [Veja aqui](https://github.com/lucasclx/previsao-status-sadipem)
 - **Acesso Mapeado:** Aplicativo mobile para mapeamento colaborativo de acessibilidade, utilizando Flutter e Firebase. [Veja aqui](https://github.com/lucasclx/acesso_mapeado)
 
 
