@@ -20,7 +20,8 @@ Focado em aplicar modelos e análises para resolver problemas do mundo real e co
 
 ## 📊 Projetos Relevantes  
 - **Predição de Dados:** Modelos de regressão e classificação para previsões baseadas em conjuntos de dados reais.  
-- **Análise Exploratória de Dados:** Estudos com foco em limpeza, visualização e identificação de padrões.  
+- **Acesso Mapeado:** Aplicativo mobile para mapeamento colaborativo de acessibilidade, utilizando Flutter e Firebase. [Veja aqui](https://github.com/lucasclx/acesso_mapeado)
+
 
 > Sinta-se à vontade para explorar meus repositórios e ver mais detalhes de cada projeto!
 
